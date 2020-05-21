@@ -36,15 +36,15 @@ Javascript specifically using <a href="https://reactjs.org/">ReactJS</a> is not 
 <li><a href="https://www.gatsbyjs.org/packages/gatsby-source-filesystem/"><code class="language-text">gatsby-source-filesystem</code></a> - this makes it possible to retrieve data from filesystem specially for <a href="https://www.markdownguide.org/">markdown</a> content.</li>
 <li><a href="https://www.gatsbyjs.org/packages/gatsby-plugin-react-helmet/"><code class="language-text">gatsby-plugin-react-helmet</code></a> - for managing my site header tags, useful for adding metadata to help with <a href="https://en.wikipedia.org/wiki/Search_engine_optimization">SEO</a>.</li>
 <li><a href="https://www.gatsbyjs.org/packages/gatsby-plugin-offline/"><code class="language-text">gatsby-plugin-offline</code></a> - make my site available offline, <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps">PWA</a> for the win!</li>
-<li>
-<p>Explore the directories and files to customize some of the UI components. The generated source directory is very organize and easy to follow. The directory structure of the source directory looks like this:</p>
+<li>Explore the directories and files to customize some of the UI components. The generated source directory is very organize and easy to follow. The directory structure of the source directory looks like this:</li>
+</ol>
 <div class="gatsby-highlight" data-language="text"><pre style="counter-reset: linenumber NaN" class="language-text line-numbers"><code class="language-text">src/
-components/
-content/
-images/
-pages/
-templates/</code><span aria-hidden="true" class="line-numbers-rows" style="white-space: normal; width: auto; left: 0;"><span></span><span></span><span></span><span></span><span></span><span></span></span></pre></div>
-</li>
+  components/
+  content/
+  images/
+  pages/
+  templates/</code><span aria-hidden="true" class="line-numbers-rows" style="white-space: normal; width: auto; left: 0;"><span></span><span></span><span></span><span></span><span></span><span></span></span></pre></div>
+<ul>
 <li><code class="language-text">components</code> consist of reusable components. We are using ReactJS, creating reusable components is the de facto here.</li>
 <li><code class="language-text">content</code> consist of the markdown files, each markdown file corresponds to a blog post. </li>
 <li><code class="language-text">images</code>, yes you guess it right. for image files.</li>
@@ -55,7 +55,7 @@ templates/</code><span aria-hidden="true" class="line-numbers-rows" style="white
 <p>One important thing to remember is to add metadata on your markdown files. These metadata can be included on your markdown files using <a href="https://jekyllrb.com/docs/front-matter/"><code class="language-text">frontmatter</code></a>, denoted by the triple dashes at the start and end of the block. This metadata is required as it is used by GraphQL for querying our content. We use the queried data for presentational purposes: displaying the blog content or listing the blog posts for example. </p>
 <p>The code below is an example of a markdown content with metadata inside the <code class="language-text">frontmatter</code> code block at the top of the file.</p>
 </li>
-</ol>
+</ul>
 <div class="gatsby-highlight" data-language="text"><pre style="counter-reset: linenumber NaN" class="language-text line-numbers"><code class="language-text">---
 title: &quot;Creating My Own Blog Using GatsbyJS&quot;
 date: &quot;2020-05-18&quot; 
