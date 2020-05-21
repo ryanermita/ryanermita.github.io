@@ -31,13 +31,15 @@ Javascript specifically using <a href="https://reactjs.org/">ReactJS</a> is not 
 <li>
 <p>Generate a new GatsbyJS project, I use a starter plugin for this. </p>
 <div class="gatsby-highlight" data-language="text"><pre style="counter-reset: linenumber NaN" class="language-text line-numbers"><code class="language-text">gatsby new gatsby-starter-julia https://github.com/niklasmtj/gatsby-starter-julia</code><span aria-hidden="true" class="line-numbers-rows" style="white-space: normal; width: auto; left: 0;"><span></span></span></pre></div>
-<p>Using a <a href="https://www.gatsbyjs.org/starters/?v=2">starter plugins</a> makes it more convenient to create sites using GatsbyJS. Aside from being very simple and minimal, the starter plugin I use contains these plugins among the others:</p>
 </li>
+</ol>
+<p>Using a <a href="https://www.gatsbyjs.org/starters/?v=2">starter plugins</a> makes it more convenient to create sites using GatsbyJS. Aside from being very simple and minimal, the starter plugin I use contains these plugins among the others:</p>
+<ul>
 <li><a href="https://www.gatsbyjs.org/packages/gatsby-source-filesystem/"><code class="language-text">gatsby-source-filesystem</code></a> - this makes it possible to retrieve data from filesystem specially for <a href="https://www.markdownguide.org/">markdown</a> content.</li>
 <li><a href="https://www.gatsbyjs.org/packages/gatsby-plugin-react-helmet/"><code class="language-text">gatsby-plugin-react-helmet</code></a> - for managing my site header tags, useful for adding metadata to help with <a href="https://en.wikipedia.org/wiki/Search_engine_optimization">SEO</a>.</li>
 <li><a href="https://www.gatsbyjs.org/packages/gatsby-plugin-offline/"><code class="language-text">gatsby-plugin-offline</code></a> - make my site available offline, <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps">PWA</a> for the win!</li>
-<li>Explore the directories and files to customize some of the UI components. The generated source directory is very organize and easy to follow. The directory structure of the source directory looks like this:</li>
-</ol>
+</ul>
+<p> 3. Explore the directories and files to customize some of the UI components. The generated source directory is very organize and easy to follow. The directory structure of the source directory looks like this:</p>
 <div class="gatsby-highlight" data-language="text"><pre style="counter-reset: linenumber NaN" class="language-text line-numbers"><code class="language-text">src/
   components/
   content/
@@ -50,12 +52,10 @@ Javascript specifically using <a href="https://reactjs.org/">ReactJS</a> is not 
 <li><code class="language-text">images</code>, yes you guess it right. for image files.</li>
 <li><code class="language-text">pages</code> consist of javascript files, each javascript file corresponds to a page on the generated site. The pages are automatically accessible via site url with this format: <code class="language-text">https://yoursite.com/&lt;page-file-name-without-js-extension&gt;</code></li>
 <li><code class="language-text">templates</code> consist of resuable templates, like blog post template.</li>
-<li>
-<p>Creating a content. I'm using markdown files for my blog content. All markdown files resides on <code class="language-text">src/content/</code> directory. Writing markdown content is very simple, you can use this site as markdown syntax reference: <a href="https://www.markdownguide.org/basic-syntax/">Markdown Guide</a></p>
-<p>One important thing to remember is to add metadata on your markdown files. These metadata can be included on your markdown files using <a href="https://jekyllrb.com/docs/front-matter/"><code class="language-text">frontmatter</code></a>, denoted by the triple dashes at the start and end of the block. This metadata is required as it is used by GraphQL for querying our content. We use the queried data for presentational purposes: displaying the blog content or listing the blog posts for example. </p>
-<p>The code below is an example of a markdown content with metadata inside the <code class="language-text">frontmatter</code> code block at the top of the file.</p>
-</li>
 </ul>
+<p> 4. Creating a content. I'm using markdown files for my blog content. All markdown files resides on <code class="language-text">src/content/</code> directory. Writing markdown content is very simple, you can use this site as markdown syntax reference: <a href="https://www.markdownguide.org/basic-syntax/">Markdown Guide</a></p>
+<p>  One important thing to remember is to add metadata on your markdown files. These metadata can be included on your markdown files using <a href="https://jekyllrb.com/docs/front-matter/"><code class="language-text">frontmatter</code></a>, denoted by the triple dashes at the start and end of the block. This metadata is required as it is used by GraphQL for querying our content. We use the queried data for presentational purposes: displaying the blog content or listing the blog posts for example. </p>
+<p>  The code below is an example of a markdown content with metadata inside the <code class="language-text">frontmatter</code> code block at the top of the file.</p>
 <div class="gatsby-highlight" data-language="text"><pre style="counter-reset: linenumber NaN" class="language-text line-numbers"><code class="language-text">---
 title: &quot;Creating My Own Blog Using GatsbyJS&quot;
 date: &quot;2020-05-18&quot; 
@@ -78,5 +78,5 @@ your blog post content and use markdown syntax if needed.</code><span aria-hidde
     &quot;deploy&quot;: &quot;gatsby build &amp;&amp; gh-pages -d public -b master&quot;
   },</code><span aria-hidden="true" class="line-numbers-rows" style="white-space: normal; width: auto; left: 0;"><span></span><span></span><span></span><span></span></span></pre></div>
 <p>Run <code class="language-text">yarn run deploy</code> and that's it. Given that our repo is properly configured. We can view our site on this url: <code class="language-text">&lt;username&gt;.github.io</code></p>
-<p>Configuring github pages to use a custom domain deserves its on post. To be posted soon!</p>
+<p>Configuring github pages to use a custom domain deserves its own post. To be posted soon!</p>
 <p><em>Happy coding!</em></p></div></div></main><style data-emotion-css="1l4w6pd">.css-1l4w6pd{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}</style><footer class="css-1l4w6pd e1ehxxwc2"><p>© <!-- -->2020<!-- -->, Built with<!-- --> </p><style data-emotion-css="o5uqvq">.css-o5uqvq{margin-left:5px;}</style><a href="https://www.gatsbyjs.org" class="css-o5uqvq e1ehxxwc1">Gatsby</a></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/software-engineering-journal/creating-my-own-blog-using-gatsbyjs";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"app":["/app-66cb945683d4e63ab9bd.js"],"component---src-pages-404-js":["/component---src-pages-404-js-cb727a5ad32918090050.js"],"component---src-pages-index-js":["/component---src-pages-index-js-c8f62ee36df539bdf03c.js"],"component---src-pages-software-engineering-journal-js":["/component---src-pages-software-engineering-journal-js-0b23c1639bda4e51f3aa.js"],"component---src-templates-blog-post-js":["/component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js"]};/*]]>*/</script><script src="/component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js" async=""></script><script src="/commons-4671f1335672facc668e.js" async=""></script><script src="/styles-befd5c688c712b9481d4.js" async=""></script><script src="/app-66cb945683d4e63ab9bd.js" async=""></script><script src="/framework-548c46c822ff9b8dc8b7.js" async=""></script><script src="/webpack-runtime-e2098a117b0273a4ae10.js" async=""></script></body></html>
