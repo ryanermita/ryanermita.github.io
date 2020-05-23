@@ -111,15 +111,6 @@
   Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/unit-testing-with-python-unittest-module/page-data.json>; rel=preload; as=fetch; crossorigin
-/software-engineering-journal/learning-rabbitmq
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
-  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/software-engineering-journal/learning-rabbitmq/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
   Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
