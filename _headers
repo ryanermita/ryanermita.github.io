@@ -6,144 +6,163 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
   Strict-Transport-Security: max-age=63072000
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-68ccccae7361e3deb9a3.js
+  Cache-Control: public, max-age=31536000, immutable
 /styles.d48560e6ff0a9b23efe7.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-befd5c688c712b9481d4.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-4671f1335672facc668e.js
+/b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js
+/component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-404-js-cb727a5ad32918090050.js
+/component---src-pages-404-js-582973c3ee381a90221a.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-js-c8f62ee36df539bdf03c.js
+/component---src-pages-index-js-03cdbd3bcbb6283de82d.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-software-engineering-journal-js-0b23c1639bda4e51f3aa.js
+/component---src-pages-software-engineering-journal-js-88117aa54fab47ddfd96.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-e2098a117b0273a4ae10.js
+/webpack-runtime-ed48c04fc964fac328fe.js
   Cache-Control: public, max-age=31536000, immutable
-/framework-548c46c822ff9b8dc8b7.js
+/framework-03e102d3023d4b15f632.js
   Cache-Control: public, max-age=31536000, immutable
-/app-66cb945683d4e63ab9bd.js
+/app-7660e82de930ef7cc5f6.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/software-engineering-journal/fix-liquibase-duplicate-key-constaints
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </component---cache-caches-gatsby-plugin-offline-app-shell-js-68ccccae7361e3deb9a3.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/software-engineering-journal/fix-liquibase-duplicate-key-constaints/page-data.json>; rel=preload; as=fetch; crossorigin
-/software-engineering-journal/why-use-text-over-varchar-n
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
-  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/software-engineering-journal/why-use-text-over-varchar-n/page-data.json>; rel=preload; as=fetch; crossorigin
-/software-engineering-journal/creating-my-own-blog-using-gatsbyjs
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
-  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/software-engineering-journal/creating-my-own-blog-using-gatsbyjs/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
 /software-engineering-journal/running-raw-sql-queries-in-ruby-on-rails
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/running-raw-sql-queries-in-ruby-on-rails/page-data.json>; rel=preload; as=fetch; crossorigin
 /software-engineering-journal/pycon-ph-2018-notes
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/pycon-ph-2018-notes/page-data.json>; rel=preload; as=fetch; crossorigin
 /software-engineering-journal/storing-nested-objects-in-redis
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/storing-nested-objects-in-redis/page-data.json>; rel=preload; as=fetch; crossorigin
 /software-engineering-journal/python-autospeccing
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/python-autospeccing/page-data.json>; rel=preload; as=fetch; crossorigin
-/software-engineering-journal/python-mock-and-magicmock
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
-  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/software-engineering-journal/python-mock-and-magicmock/page-data.json>; rel=preload; as=fetch; crossorigin
 /software-engineering-journal/unit-testing-with-python-unittest-module
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-b8dd6c499f6a6988d5db.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/unit-testing-with-python-unittest-module/page-data.json>; rel=preload; as=fetch; crossorigin
-/404/
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
+/software-engineering-journal/python-mock-and-magicmock
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-pages-404-js-cb727a5ad32918090050.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/software-engineering-journal/python-mock-and-magicmock/page-data.json>; rel=preload; as=fetch; crossorigin
+/software-engineering-journal/why-use-text-over-varchar-n
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
+  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/software-engineering-journal/why-use-text-over-varchar-n/page-data.json>; rel=preload; as=fetch; crossorigin
+/software-engineering-journal/learning-rabbitmq
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
+  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/software-engineering-journal/learning-rabbitmq/page-data.json>; rel=preload; as=fetch; crossorigin
+/software-engineering-journal/fix-liquibase-duplicate-key-constaints
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
+  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/software-engineering-journal/fix-liquibase-duplicate-key-constaints/page-data.json>; rel=preload; as=fetch; crossorigin
+/software-engineering-journal/creating-my-own-blog-using-gatsbyjs
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
+  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/software-engineering-journal/creating-my-own-blog-using-gatsbyjs/page-data.json>; rel=preload; as=fetch; crossorigin
+/404/
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
+  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-582973c3ee381a90221a.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
 /
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-pages-index-js-c8f62ee36df539bdf03c.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-03cdbd3bcbb6283de82d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /software-engineering-journal/
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-pages-software-engineering-journal-js-0b23c1639bda4e51f3aa.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-pages-software-engineering-journal-js-88117aa54fab47ddfd96.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/page-data.json>; rel=preload; as=fetch; crossorigin
 /404.html
-  Link: </webpack-runtime-e2098a117b0273a4ae10.js>; rel=preload; as=script
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-548c46c822ff9b8dc8b7.js>; rel=preload; as=script
-  Link: </app-66cb945683d4e63ab9bd.js>; rel=preload; as=script
-  Link: </commons-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-pages-404-js-cb727a5ad32918090050.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-582973c3ee381a90221a.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
