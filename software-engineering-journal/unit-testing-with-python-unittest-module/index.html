@@ -41,6 +41,7 @@ class FooTestCase(unittest.TestCase):
     def test_add_negative_numbers(self):
         sum = add(-1-2)
         self.assertEqual(-3, sum)</code><span aria-hidden="true" class="line-numbers-rows" style="white-space: normal; width: auto; left: 0;"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></pre></div>
+<p> </p>
 <h3>To write a test script using python unittest module:</h3>
 <ul>
 <li>Create an empty python file with the filename prefixed by <code class="language-text">test_</code> . This way we can easily distinguish that a file is a test script.</li>
@@ -106,6 +107,7 @@ test_add_negative_numbers (test_foo.TestFoo) ... skipped &#39;skipping test beca
 
 ------------------------------------------------------------------
 Ran 2 tests in 0.000sOK (skipped=1)</code><span aria-hidden="true" class="line-numbers-rows" style="white-space: normal; width: auto; left: 0;"><span></span><span></span><span></span><span></span><span></span></span></pre></div>
+<p> </p>
 <h3>Test setup and cleanup</h3>
 <p>Most of the time we need to run a code before and after a test method. For example, before running our test method we need to setup the database connection, initialize our classes, prepare our test data, etc. Also after we run our test method, we need to close our database connection and clear any traces of our tests. These actions are called <strong>test fixtures</strong>.</p>
 <p>In python unittest module, this test fixtures are possible by overriding these methods in our testcase class:</p>
@@ -157,6 +159,7 @@ this will run after all test methods.
 ------------------------------------------------------------------
 Ran 2 tests in 0.000s
 OK</code><span aria-hidden="true" class="line-numbers-rows" style="white-space: normal; width: auto; left: 0;"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></pre></div>
+<p> </p>
 <h3>Mocking with unittest module</h3>
 <p>There are times that the function/module which is the subject of our unit test has some dependencies that we don't have any control of, e.g external APIs or services, python standard modules, or other modules that we wrote inside our project. These dependencies might cause undesirable side effects during our test and might hinder the test itself. Good thing we can mock these dependencies and focus only on the code that we need to test.</p>
 <p>Let’s use this simple functions below to explore how to mock function/module using unittest module:</p>
