@@ -49,15 +49,6 @@
   Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/running-raw-sql-queries-in-ruby-on-rails/page-data.json>; rel=preload; as=fetch; crossorigin
-/software-engineering-journal/pycon-ph-2018-notes
-  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
-  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
-  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
-  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/software-engineering-journal/pycon-ph-2018-notes/page-data.json>; rel=preload; as=fetch; crossorigin
 /software-engineering-journal/storing-nested-objects-in-redis
   Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
@@ -67,7 +58,7 @@
   Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/storing-nested-objects-in-redis/page-data.json>; rel=preload; as=fetch; crossorigin
-/software-engineering-journal/python-autospeccing
+/software-engineering-journal/pycon-ph-2018-notes
   Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
   Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
@@ -75,7 +66,7 @@
   Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
   Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/software-engineering-journal/python-autospeccing/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/software-engineering-journal/pycon-ph-2018-notes/page-data.json>; rel=preload; as=fetch; crossorigin
 /software-engineering-journal/unit-testing-with-python-unittest-module
   Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
@@ -94,15 +85,6 @@
   Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/python-mock-and-magicmock/page-data.json>; rel=preload; as=fetch; crossorigin
-/software-engineering-journal/why-use-text-over-varchar-n
-  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
-  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
-  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
-  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
-  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/software-engineering-journal/why-use-text-over-varchar-n/page-data.json>; rel=preload; as=fetch; crossorigin
 /software-engineering-journal/learning-rabbitmq
   Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
@@ -112,6 +94,24 @@
   Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/learning-rabbitmq/page-data.json>; rel=preload; as=fetch; crossorigin
+/software-engineering-journal/python-autospeccing
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
+  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/software-engineering-journal/python-autospeccing/page-data.json>; rel=preload; as=fetch; crossorigin
+/software-engineering-journal/why-use-text-over-varchar-n
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
+  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/software-engineering-journal/why-use-text-over-varchar-n/page-data.json>; rel=preload; as=fetch; crossorigin
 /software-engineering-journal/fix-liquibase-duplicate-key-constaints
   Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
@@ -130,6 +130,15 @@
   Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/software-engineering-journal/creating-my-own-blog-using-gatsbyjs/page-data.json>; rel=preload; as=fetch; crossorigin
+/software-engineering-journal/takeaways-from-Google-technical-writing-course
+  Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
+  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7660e82de930ef7cc5f6.js>; rel=preload; as=script
+  Link: </b5d1866e62e72e6b1d5d173ee7d706943120ecb4-4671f1335672facc668e.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-d0c8aed987e05f105f2d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/software-engineering-journal/takeaways-from-Google-technical-writing-course/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
   Link: </webpack-runtime-ed48c04fc964fac328fe.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
